@@ -12,3 +12,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [X] Wake up
+- [X] Go to the bathroom
+- [ ] Get out of bed
+- [ ] dammit
